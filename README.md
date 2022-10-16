@@ -1,11 +1,11 @@
-# SEGUR
+# WEB-SISTEMA
 ## Indizea
 * [Sarrera](#Sarrera)
 * [Erabilitko teknologia](#Teknologia)
 * [Nola hasieratu](#Hasieratu)
 
 ## Sarrera
-This project is simple Lorem ipsum dolor generator.
+Web-sistema garatzeko lan-taldea, non bezeroa Logeatu, elementuak sartu, elementuen zerrenda propioa sortu eta abar egin ahal duena
 	
 ## Teknologia
 Project is created with:
