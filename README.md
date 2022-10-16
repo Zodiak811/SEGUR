@@ -16,11 +16,11 @@ Proiektua hurrengo baliabide teknologikoekin sortu egin da:
 * PHP 5-7
 	
 ## Hasieratu
-To run this project, install it locally using npm:
+Proiektua hasieratzeko eta erabiltzeko, hurrengo komandoak erabili behar dira Docker-a hasierazteko:
 
 ```
 $ cd ../lorem
-$ npm install
+ npm install
 $ npm start
 ```
 ## Funtzionalitateak
