@@ -4,7 +4,7 @@
 * [Erabilitko teknologia](#Teknologia)
 * [Nola hasieratu](#Hasieratu)
 * [Funtzionalitateak](#Funtzionalitateak)
-* [Taldekideen informazioa](#Taldekideen izen-abizenak)
+* [Taldekideen informazioa](#Taldekideak)
 
 ## Sarrera
 Web-sistema garatzeko lan-taldea, non bezeroa Logeatu, elementuak sartu, elementuen zerrenda propioa sortu eta abar egin ahal duena
@@ -30,5 +30,8 @@ Web-sisteman bezeroa hurrengoa egiteko ahalmena izango du:
 * Jokuen zerrenda propio bat sortu, eta bertatik jokoen datuak aldatu edo zerrendatik kendu
 * Jokuak sistemara gehitu
 
-## Taldekideen izen-abizenak
+## Taldekideak
+* Ander Casales de la Torre
+* Galder Rodríguez Lafuente
+* Mikel Gojenola Caro
 
