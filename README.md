@@ -7,10 +7,10 @@
 * [Taldekideen informazioa](#Taldekideak)
 
 ## Sarrera
-Web-sistema garatzeko lan-taldea, non bezeroa Logeatu, elementuak sartu, elementuen zerrenda propioa sortu eta abar egin ahal duena
+Web-sistema garatzeko lan-taldea, Informazio Sistemen Segurtasuna Kudeatzeko Sistemak (ISSKS) ikasgaiari dagokion proiektua.
 	
 ## Teknologia
-Projiektua hurrengo baliabide teknologikoekin sortu egin da:
+Proiektua hurrengo baliabide teknologikoekin sortu egin da:
 * Ubuntu 22.04.1 LTS
 * Docker 20.10.18
 * PHP 5-7
